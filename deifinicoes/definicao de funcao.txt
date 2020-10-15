@@ -1,0 +1,1 @@
+@@funcao funcA:misturar;procedimento subir ( var escada:inteiro;c:real );tipo real = a;

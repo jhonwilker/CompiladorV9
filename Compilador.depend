@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1560919579 source:c:\users\jhon wilker\desktop\compilador\main.cpp
+	"sintatico.h"
+
+1560949994 c:\users\jhon wilker\desktop\compilador\lexico.h
+	<vector>
+	"estruturaToken.h"
+
+1560571650 c:\users\jhon wilker\desktop\compilador\estruturatoken.h
+	<iostream>
+	<string.h>
+
+1560950638 c:\users\jhon wilker\desktop\compilador\sintatico.h
+	"lexico.h"
+
+1560919580 source:c:\users\usuario\desktop\jhon\compilador v7\main.cpp
+	"sintatico.h"
+
+1560950640 c:\users\usuario\desktop\jhon\compilador v7\sintatico.h
+	"lexico.h"
+
+1560949996 c:\users\usuario\desktop\jhon\compilador v7\lexico.h
+	<vector>
+	"estruturaToken.h"
+
+1560571652 c:\users\usuario\desktop\jhon\compilador v7\estruturatoken.h
+	<iostream>
+	<string.h>
+
+1562002294 source:c:\users\usuario\pictures\camera roll\jhon\compilador v7\main.cpp
+	"sintatico.h"
+
+1562002513 c:\users\usuario\pictures\camera roll\jhon\compilador v7\sintatico.h
+	"lexico.h"
+
+1561999888 c:\users\usuario\pictures\camera roll\jhon\compilador v7\lexico.h
+	<vector>
+	"estruturaToken.h"
+
+1560571652 c:\users\usuario\pictures\camera roll\jhon\compilador v7\estruturatoken.h
+	<iostream>
+	<string.h>
+
+1562183341 source:c:\users\jhon wilker dev\desktop\compilador v8\main.cpp
+	"sintatico.h"
+	<conio.h>
+	<stdio.h>
+
+1562184515 c:\users\jhon wilker dev\desktop\compilador v8\sintatico.h
+	"lexico.h"
+
+1562181277 c:\users\jhon wilker dev\desktop\compilador v8\lexico.h
+	<vector>
+	"estruturaToken.h"
+
+1561988324 c:\users\jhon wilker dev\desktop\compilador v8\estruturatoken.h
+	<iostream>
+	<string.h>
+

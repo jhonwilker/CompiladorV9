@@ -1,0 +1,18 @@
+programa maquina;
+tipo real = a;boleano = b;
+var x, a:real;c,w:inteiro;
+procedimento subir;
+tipo real = z;
+inicio
+x:=x+y;
+fim
+.
+inicio
+a:=b+2;
+x(y=z);
+leia(palavra);
+se a=3 entao imprima(a+a) senao imprima (a+b);
+enquanto a<=b do imprima (a+a);
+fim
+funcao funcA:misturar;procedimento subir ( var escada:inteiro;c:real );tipo real = a;
+.
